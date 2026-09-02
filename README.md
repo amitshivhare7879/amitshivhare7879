@@ -44,11 +44,11 @@ Data Science & Applications student at IIT Madras and AI/Data Science Trainee, b
 
 ### 📊 Activity & Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitshivhare7879&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Amit's Contribution Graph" />
-</p>
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amitshivhare7879/amitshivhare7879/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amitshivhare7879/amitshivhare7879/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/amitshivhare7879/amitshivhare7879/output/github-contribution-grid-snake.svg">
+</picture>
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-shivhare-b016412a5)

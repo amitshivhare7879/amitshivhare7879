@@ -42,14 +42,11 @@ Data Science & Applications student at IIT Madras and AI/Data Science Trainee, b
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Activity & Contributions
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitshivhare7879&show_icons=true&theme=tokyonight&hide_border=true" height="145" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitshivhare7879&theme=tokyonight&hide_border=true" height="145" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshivhare7879&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="languages graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitshivhare7879&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Amit's Contribution Graph" />
 </p>
-
 ---
 
 ### 📬 Connect With Me

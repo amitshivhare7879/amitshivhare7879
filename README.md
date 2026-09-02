@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Seeking_AI%2FData_Science_Internships-brightgreen?style=flat-square)
 # Hi there, I'm Amit Shivhare 👋
 
 Data Science & Applications student at IIT Madras and AI/Data Science Trainee, building end-to-end machine learning pipelines, LLM-powered applications, and full-stack data tools.
@@ -10,7 +11,7 @@ Data Science & Applications student at IIT Madras and AI/Data Science Trainee, b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Data Science & Machine Learning**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -34,18 +35,19 @@ Data Science & Applications student at IIT Madras and AI/Data Science Trainee, b
 
 ### 🚀 Featured Projects
 
-* **[PrepPilot](https://github.com/amitshivhare7879)** — AI-driven interview practice platform featuring role selection, Web Speech API integration, and real-time LLM evaluation.
-* **[VigilAI](https://github.com/amitshivhare7879)** — Multimodal video analytics pipeline utilizing OpenCV frame sampling, ResNet50 visual encoding, and Vision-Language Models.
-* **[3D Product Gallery Agent](https://github.com/amitshivhare7879/3dproductgallery_agent)** — Autonomous agent bot designed to automate catalog ingestion, editing, and listing workflows for e-commerce products.
-* **[SpendSense](https://github.com/amitshivhare7879)** — Automated expense parsing engine converting raw Telegram text into structured Google Sheets records.
+* **[PrepPilot](https://github.com/amitshivhare7879/PrepPilot.git)** — AI-driven interview practice platform featuring role selection, Web Speech API integration, and real-time LLM evaluation.
+* **[VigilAI](https://github.com/amitshivhare7879/VigilAi.git)** — Multimodal video analytics pipeline utilizing OpenCV frame sampling, ResNet50 visual encoding, and Vision-Language Models.
+* **[3D Product Gallery Agent](https://github.com/amitshivhare7879/3dproductgallery_agen)** — Autonomous agent bot designed to automate catalog ingestion, editing, and listing workflows for e-commerce products.
+* **[SpendSense](https://github.com/amitshivhare7879/REPLACE_WITH_SPENDSENSE_REPO)** — Automated expense parsing engine converting raw Telegram text into structured Google Sheets records.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitshivhare7879&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshivhare7879&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitshivhare7879&show_icons=true&theme=tokyonight&hide_border=true" height="145" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitshivhare7879&theme=tokyonight&hide_border=true" height="145" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitshivhare7879&layout=compact&theme=tokyonight&hide_border=true" height="145" alt="languages graph" />
 </p>
 
 ---
@@ -53,19 +55,4 @@ Data Science & Applications student at IIT Madras and AI/Data Science Trainee, b
 ### 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-shivhare-b016412a5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amitshivhare3025@gmail.com)## Hi there 👋
-
-<!--
-**amitshivhare7879/amitshivhare7879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amitshivhare3025@gmail.com)
